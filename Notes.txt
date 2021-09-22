@@ -1,0 +1,7 @@
+09-22-2021
+
+Website: https://docs.python-guide.org/writing/structure/
+Source: https://github.com/navdeep-G/samplemod.git
+
+Open Issues:
+	1. 
